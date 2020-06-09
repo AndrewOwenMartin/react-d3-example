@@ -1,0 +1,9 @@
+{
+  "short_name": "D3 Example",
+  "name": "React D3 Example Component",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
