@@ -1,11 +1,14 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
 import {
-    D3Example
-} from "./ReactD3"
+    ReactD3Example
+} from "./ReactD3Example"
 
-function App() {
-  return <D3Example />
+const App = () => {
+    return <div>
+        <ReactD3Example {...{height: 400, initCircleCount: 10}} />
+        <ReactD3Example {...{height: 600, initCircleCount: 20}} />
+    </div>
 }
 
-export default App;
+export default App
