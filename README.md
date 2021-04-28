@@ -1,8 +1,3 @@
-
-Using [this simple code](src/ReactD3.js) you can easily render D3 objects in React.
-
-Live example: [https://www.aomartin.co.uk/react-d3-example/](https://www.aomartin.co.uk/react-d3-example/)
-
 # An example of using D3 with React
 
 This package provides an example of using D3 with React in a where they play nicely together.
